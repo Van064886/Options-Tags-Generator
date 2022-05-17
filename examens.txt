@@ -1,0 +1,58 @@
+Angiographie pulmonaire
+Antibiogramme
+Artériographie
+Arthroscopie
+Audiométrie
+Bilan sanguin
+Bilan urodynamique
+Biopsie
+Biopsie du trophoplaste
+Capillaroscopie
+Caryotype
+Cœlioscopie
+Coloscopie
+Colposcopie
+Coproculture
+Coronographie(angiographie coronaire )
+Cystographie
+Cystoscopie
+Doppler
+ECBU
+ECG
+Échocardigraphie
+Échographie abdomino-pelvienne
+Électroencéphalographie (EEG)
+Electromyogramme
+Électrorétinogramme
+Endoscopie digestive
+Explorations fonctionnelles respiratoires (EFR)
+Fibroscan
+Fibroscopie
+Frottis vaginal
+Hémogramme
+Hysterosalpingographie
+Hystéroscopie
+Holter
+Impédancemétrie
+Ionogramme
+IRM
+Mammographie
+Myélogramme
+Ostéodensitométrie
+Phmétrie
+Ponction lombaire
+Ponction pleurale
+Radiothérapie
+Radiographie
+Scanner
+Scintigraphie
+Spermogramme
+Spirométrie
+Suivi médical de la grossesse
+Tomodensitométrie
+Tomographie
+Urétrocystographie
+Urétéroscopie
+Urétroscopie
+Urographie
+Uroscanner
